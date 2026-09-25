@@ -22,7 +22,7 @@ I designed and developed the product architecture across a TypeScript monorepo, 
 - onboarding and platform administration surfaces
 - a React Native mobile foundation for customer discovery and ordering
 - a Node.js API with schema validation, tenant-aware data access, and test coverage
-- a controlled AI-assisted engineering workflow with explicit scope, policy gates, CI evidence, and human approval
+
 
 ## System at a glance
 
